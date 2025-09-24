@@ -1,0 +1,3 @@
+language: both   # pt | en | both
+max_length: 220  # limita o tamanho da frase (bom pra não ficar um textão)
+timezone: America/Sao_Paulo # fuso horário para mostrar a data correta no rodapé
