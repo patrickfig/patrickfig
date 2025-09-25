@@ -31,9 +31,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2009, A cúpula do G20 começa em Pittsburgh com a presença de 30 líderes globais.
+> Em 1396, O sultão otomano Bajazeto I e o rei da Sérvia Estêvão Lazarević derrotam as forças aliadas cristãs na Batalha de Nicópolis, considerada a última grande batalha das cruzadas em território europeu.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Cúpula do G20 em Pittsburgh em 2009) • Atualizado 2025-09-24</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Lista de sultões do Império Otomano) • Atualizado 2025-09-25</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
