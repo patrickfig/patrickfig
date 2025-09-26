@@ -31,9 +31,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1396, O sultão otomano Bajazeto I e o rei da Sérvia Estêvão Lazarević derrotam as forças aliadas cristãs na Batalha de Nicópolis, considerada a última grande batalha das cruzadas em território europeu.
+> Em 1954, A balsa ferroviária japonesa Tōya Maru afunda durante um tufão no estreito de Tsugaru, Japão, matando 1 172 pessoas.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Lista de sultões do Império Otomano) • Atualizado 2025-09-25</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Tōya Maru) • Atualizado 2025-09-26</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
