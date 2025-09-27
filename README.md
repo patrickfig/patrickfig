@@ -31,9 +31,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1954, A balsa ferroviária japonesa Tōya Maru afunda durante um tufão no estreito de Tsugaru, Japão, matando 1 172 pessoas.
+> Em 1949, O desenho de Zeng Liansong é escolhido como bandeira da República Popular da China.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Tōya Maru) • Atualizado 2025-09-26</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Bandeira da China) • Atualizado 2025-09-27</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
