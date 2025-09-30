@@ -19,8 +19,10 @@
   <img src="https://skillicons.dev/icons?i=githubactions" width="36" alt="GitHub Actions"/>
   <img src="https://skillicons.dev/icons?i=idea" width="36" alt="IntelliJ IDEA"/>
   <img src="https://skillicons.dev/icons?i=jira" width="36" alt="Jira"/>
-</p>
 
+</p>
+![SAP](https://readme-icons.patriisck.workers.dev/sap.svg)   
+![Java](https://readme-icons.patriisck.workers.dev/java.svg)
 ---
 
 ### 👨‍💻 Sobre mim  
