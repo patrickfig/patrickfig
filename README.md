@@ -9,20 +9,10 @@
 
 ### ⚙️ Linguagens e Tecnologias  
 <p>
-  <img src="https://skillicons.dev/icons?i=java" width="36" alt="Java"/>
-  <img src="https://skillicons.dev/icons?i=spring" width="36" alt="Spring"/>
-  <img src="https://skillicons.dev/icons?i=hibernate" width="36" alt="Hibernate"/>
-  <img src="https://skillicons.dev/icons?i=postgres" width="36" alt="PostgreSQL"/>
-  <img src="https://skillicons.dev/icons?i=maven" width="36" alt="Maven"/>
-  <img src="https://skillicons.dev/icons?i=python" width="36" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=git" width="36" alt="Git"/>
-  <img src="https://skillicons.dev/icons?i=githubactions" width="36" alt="GitHub Actions"/>
-  <img src="https://skillicons.dev/icons?i=idea" width="36" alt="IntelliJ IDEA"/>
-  <img src="https://skillicons.dev/icons?i=jira" width="36" alt="Jira"/>
-
+  <img src="https://readme-icons.patriisck.workers.dev/sap.svg" alt="SAP" height="36" />
+  <img src="https://readme-icons.patriisck.workers.dev/java.svg" alt="SAP" height="36" />
 </p>
-![SAP](https://readme-icons.patriisck.workers.dev/sap.svg)   
-![Java](https://readme-icons.patriisck.workers.dev/java.svg)
+
 ---
 
 ### 👨‍💻 Sobre mim  
