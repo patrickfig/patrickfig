@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1927, Inauguração da Fordilândia, no estado do Pará, polo fornecedor de látex para os empreendimentos de Henry Ford.
+> Em 1814, Início do Congresso de Viena, onde é redesenhado o mapa político da Europa após o fim das Guerras Napoleônicas.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Fordlândia) • Atualizado 2025-09-30</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Congresso de Viena) • Atualizado 2025-10-01</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
