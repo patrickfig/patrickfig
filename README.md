@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1789, Revolução Francesa: a Declaração dos Direitos do Homem e do Cidadão é aprovada pela Assembleia Nacional Constituinte revolucionária.
+> Em 1993, Um ataque americano contra um chefe tribal em Mogadíscio fracassa. 18 atacantes e mais de 350 somalis morrem.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Revolução Francesa) • Atualizado 2025-10-02</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Batalha de Mogadíscio (1993)) • Atualizado 2025-10-03</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
