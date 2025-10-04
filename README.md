@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1993, Um ataque americano contra um chefe tribal em Mogadíscio fracassa. 18 atacantes e mais de 350 somalis morrem.
+> Em 1535, A Bíblia de Coverdale é impressa, com traduções para o inglês por William Tyndale e Myles Coverdale.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Batalha de Mogadíscio (1993)) • Atualizado 2025-10-03</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Bíblia de Coverdale) • Atualizado 2025-10-04</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
