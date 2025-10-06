@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1914, Primeira Guerra Mundial: uma aeronave destrói com sucesso outra aeronave com tiros pela primeira vez.
+> Em 1992, Início das transmissões da rede de TV portuguesa SIC.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Primeira Guerra Mundial) • Atualizado 2025-10-05</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Televisão) • Atualizado 2025-10-06</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
