@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1992, Início das transmissões da rede de TV portuguesa SIC.
+> Em 1998, Matthew Shepard, um estudante homossexual da Universidade de Wyoming, é encontrado amarrado a uma cerca depois de ter sido brutalmente espancado por dois jovens adultos em Laramie, Wyoming, Estados Unidos. Morre cinco d…
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Televisão) • Atualizado 2025-10-06</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Matthew Shepard) • Atualizado 2025-10-07</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
