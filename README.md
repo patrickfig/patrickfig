@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1984, O Exército Republicano Irlandês Provisório fracassa em assassinar a primeira-ministra Margaret Thatcher e seu gabinete. A bomba mata cinco pessoas e fere 31.
+> Em 1930, O Bispo de Leiria torna públicas, oficialmente, as aparições de Nossa Senhora em Fátima.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Exército Republicano Irlandês) • Atualizado 2025-10-12</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Bispo) • Atualizado 2025-10-13</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
