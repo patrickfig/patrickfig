@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1809, O vice-rei do Rio da Prata, Baltasar Hidalgo de Cisneros, abre o porto de Buenos Aires para negociar com outras nações além da Espanha.
+> Em 690, A imperatriz Wu Zetian ascende ao trono da dinastia Tang e se proclama governante do Império Chinês.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Vice-Reino do Rio da Prata) • Atualizado 2025-10-15</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Wu Zetian) • Atualizado 2025-10-16</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
