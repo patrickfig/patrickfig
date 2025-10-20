@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1973, O presidente Nixon rejeita uma decisão do Tribunal de Apelações que entrega as fitas de Watergate.
+> Em 1827, Guerra da Independência da Grécia: Na Batalha de Navarino, uma frota combinada turca e egípcia é derrotada pelas forças navais britânicas, francesas e russas na última batalha significativa travada com veleiros de madei…
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Richard Nixon) • Atualizado 2025-10-19</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Guerra de independência da Grécia) • Atualizado 2025-10-20</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
