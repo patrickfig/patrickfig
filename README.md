@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1912, Primeira Guerra dos Balcãs: começa a Batalha de Kumanovo entre os exércitos sérvio e otomano.
+> Em 1980, O governo da Polônia legaliza o sindicato Solidariedade.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Primeira Guerra Balcânica) • Atualizado 2025-10-23</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Solidarność) • Atualizado 2025-10-24</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
