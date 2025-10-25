@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1980, O governo da Polônia legaliza o sindicato Solidariedade.
+> Em 1616, O capitão-do-mar holandês Dirk Hartog faz o segundo desembarque registrado por um europeu em solo australiano, na mais tarde nomeada Ilha Dirk Hartog, na costa oeste da Austrália.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Solidarność) • Atualizado 2025-10-24</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Dirk Hartog) • Atualizado 2025-10-25</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
