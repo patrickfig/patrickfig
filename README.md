@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1936, Wallis Simpson obtém seu divórcio, o que acabaria por permitir que se casasse com o rei Eduardo VIII do Reino Unido, forçando assim sua abdicação do trono.
+> Em 1958, É eleito o Papa João XXIII, o 261º papa.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Wallis, Duquesa de Windsor) • Atualizado 2025-10-27</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Papa João XXIII) • Atualizado 2025-10-28</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
