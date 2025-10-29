@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1958, É eleito o Papa João XXIII, o 261º papa.
+> Em 2022, Pelo menos 156 morrem em uma multidão durante uma celebração de Halloween no distrito de Itaewon, Seul, Coreia do Sul.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Papa João XXIII) • Atualizado 2025-10-28</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Tragédia de Halloween na Coreia do Sul) • Atualizado 2025-10-29</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
