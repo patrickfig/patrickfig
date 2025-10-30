@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2022, Pelo menos 156 morrem em uma multidão durante uma celebração de Halloween no distrito de Itaewon, Seul, Coreia do Sul.
+> Em 2007, O Brasil é anunciado oficialmente como país-sede da Copa do Mundo FIFA de 2014.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Tragédia de Halloween na Coreia do Sul) • Atualizado 2025-10-29</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Brasil) • Atualizado 2025-10-30</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
