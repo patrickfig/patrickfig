@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1814, O Congresso de Viena abre para redesenhar o mapa político europeu após a derrota da França nas Guerras Napoleônicas.
+> Em 1945, República da Costa Rica e República da Libéria são admitidas como Estados-Membros da ONU.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Congresso de Viena) • Atualizado 2025-11-01</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Costa Rica) • Atualizado 2025-11-02</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
