@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1973, Os Países Baixos experimentam o primeiro domingo sem carros causado pela Crise Petrolífera de 1973. As rodovias são usadas apenas por ciclistas e patinadores.
+> Em 1911, Após declarar guerra ao Império Otomano em 29 de setembro de 1911, a Itália anexa Trípoli e a Cirenaica.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Dia Mundial sem Carro) • Atualizado 2025-11-04</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Império Otomano) • Atualizado 2025-11-05</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
