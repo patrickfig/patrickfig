@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1911, Após declarar guerra ao Império Otomano em 29 de setembro de 1911, a Itália anexa Trípoli e a Cirenaica.
+> Em 2016, Guerra Civil Síria: As Forças Democráticas Sírias (FDS) lançam uma ofensiva para capturar a cidade de Raqqa do Estado Islâmico do Iraque e do Levante.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Império Otomano) • Atualizado 2025-11-05</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Guerra Civil Síria) • Atualizado 2025-11-06</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
