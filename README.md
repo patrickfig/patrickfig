@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2016, Guerra Civil Síria: As Forças Democráticas Sírias (FDS) lançam uma ofensiva para capturar a cidade de Raqqa do Estado Islâmico do Iraque e do Levante.
+> Em 1916, Woodrow Wilson é reeleito como presidente dos Estados Unidos.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Guerra Civil Síria) • Atualizado 2025-11-06</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Woodrow Wilson) • Atualizado 2025-11-07</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
