@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1916, Woodrow Wilson é reeleito como presidente dos Estados Unidos.
+> Em 1291, A República de Veneza promulga uma lei que confina a maior parte da indústria vidreira de Veneza à "ilha de Murano".
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Woodrow Wilson) • Atualizado 2025-11-07</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/República de Veneza) • Atualizado 2025-11-08</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
