@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1750, Revoltas eclodem em Lhasa após o assassinato do regente tibetano.
+> Em 1996, Um Boeing 747 da Saudi Arabian Airlines e um avião de carga cazaque Ilyushin Il-76 colidem no ar perto de Nova Déli, matando 349 pessoas. A colisão aérea no ar mais mortal até hoje.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Revolta de Lassa de 1750) • Atualizado 2025-11-11</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Colisão aérea de Charkhi Dadri) • Atualizado 2025-11-12</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
