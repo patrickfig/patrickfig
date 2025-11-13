@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1996, Um Boeing 747 da Saudi Arabian Airlines e um avião de carga cazaque Ilyushin Il-76 colidem no ar perto de Nova Déli, matando 349 pessoas. A colisão aérea no ar mais mortal até hoje.
+> Em 1993, O voo 6901 da China Northern Airlines cai ao se aproximar do Aeroporto Internacional Ürümqi Diwopu em Ürümqi, China, matando 12 pessoas.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Colisão aérea de Charkhi Dadri) • Atualizado 2025-11-12</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Voo China Northern Airlines 6901) • Atualizado 2025-11-13</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
