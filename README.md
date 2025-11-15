@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1991, Autoridades americanas e britânicas anunciam acusações contra dois oficiais da inteligência da Líbia em conexão com a queda do voo 103 da Pan Am.
+> Em 2000, Um Antonov An-24 fretado cai após a decolagem de Luanda, Angola, matando mais de 40 pessoas.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Atividade de inteligência) • Atualizado 2025-11-14</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Antonov An-24) • Atualizado 2025-11-15</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
