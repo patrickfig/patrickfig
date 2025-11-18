@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1903, Assinatura do Tratado de Petrópolis: o Acre é anexado pelo Brasil.
+> Em 1930, Criação da Ordem dos Advogados do Brasil.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Tratado de Petrópolis) • Atualizado 2025-11-17</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Ordem dos Advogados do Brasil) • Atualizado 2025-11-18</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
