@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1959, A Ford Motor Company anuncia o fim da produção do impopular Edsel.
+> Em 1947, A Princesa Isabel do Reino Unido casa com o tenente Philip Mountbatten, que se torna o duque de Edimburgo, na Abadia de Westminster em Londres.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Ford Motor Company) • Atualizado 2025-11-19</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Isabel II do Reino Unido) • Atualizado 2025-11-20</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
