@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1947, A Princesa Isabel do Reino Unido casa com o tenente Philip Mountbatten, que se torna o duque de Edimburgo, na Abadia de Westminster em Londres.
+> Em 1910, Marinheiros a bordo dos navios de guerra do Brasil, incluindo o Minas Geraes, São Paulo e Bahia, se rebelam violentamente no que é hoje conhecido como a Revolta da Chibata.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Isabel II do Reino Unido) • Atualizado 2025-11-20</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Minas Geraes (couraçado)) • Atualizado 2025-11-21</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
