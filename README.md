@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1943, Segunda Guerra Mundial: Conferência do Cairo: o presidente dos Estados Unidos, Franklin D. Roosevelt, o primeiro-ministro britânico Winston Churchill e o chefe do governo nacional chinês Chiang Kai-shek se reúnem no Cai…
+> Em 1976, Jacques Mayol é o primeiro homem a atingir uma profundidade de 100 m no fundo do mar sem equipamento respiratório.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Conferência do Cairo) • Atualizado 2025-11-22</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Jacques Mayol) • Atualizado 2025-11-23</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
