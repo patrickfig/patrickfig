@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1976, Jacques Mayol é o primeiro homem a atingir uma profundidade de 100 m no fundo do mar sem equipamento respiratório.
+> Em 380, Teodósio faz seu advento, ou entrada formal, em Constantinopla.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Jacques Mayol) • Atualizado 2025-11-23</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Teodósio) • Atualizado 2025-11-24</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
