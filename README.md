@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1966, Aprovação do atual Código Civil Português.
+> Em 2001, Mikhail Gorbachev funda o Partido Social-Democrata Russo.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Código Civil português) • Atualizado 2025-11-25</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Mikhail Gorbatchov) • Atualizado 2025-11-26</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
