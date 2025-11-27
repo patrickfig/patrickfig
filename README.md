@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2001, Mikhail Gorbachev funda o Partido Social-Democrata Russo.
+> Em 1910, Revolta da Chibata: A anistia foi aprovada pela Câmara. Às 19 horas, os amotinados aceitaram oficialmente as disposições relativas à anistia, encerrando a revolta.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Mikhail Gorbatchov) • Atualizado 2025-11-26</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Revolta da Chibata) • Atualizado 2025-11-27</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
