@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1394, O rei coreano Taejo de Joseon, fundador da dinastia Joseon, move a capital de Kaesong para Hanyang, hoje conhecida como Seul.
+> Em 1922, É nomeado em Portugal o 36.º governo republicano, chefiado pelo presidente do Ministério António Maria da Silva.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Taejo de Joseon) • Atualizado 2025-11-29</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/36.º governo republicano (Portugal)) • Atualizado 2025-11-30</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
