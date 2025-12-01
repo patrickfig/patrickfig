@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1922, É nomeado em Portugal o 36.º governo republicano, chefiado pelo presidente do Ministério António Maria da Silva.
+> Em 1862, Em seu Discurso sobre o Estado da União, o Presidente dos Estados Unidos Abraham Lincoln reafirma a necessidade de acabar com a escravidão, conforme ordenado dez semanas antes na Proclamação de Emancipação.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/36.º governo republicano (Portugal)) • Atualizado 2025-11-30</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Discurso sobre o Estado da União) • Atualizado 2025-12-01</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
