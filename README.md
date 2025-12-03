@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1944, Inaugurada no Rio de Janeiro, pelo jornalista Roberto Marinho, a Rádio Globo.
+> Em 915, O Papa João X coroa Berengário I da Itália como Sacro Imperador Romano.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Roberto Marinho) • Atualizado 2025-12-02</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Papa João X) • Atualizado 2025-12-03</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
