@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 915, O Papa João X coroa Berengário I da Itália como Sacro Imperador Romano.
+> Em 1977, O voo Malaysia Airlines 653 é sequestrado e cai em Tanjong Kupang, Johor, matando 100 pessoas.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Papa João X) • Atualizado 2025-12-03</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Voo Malaysia Airlines 653) • Atualizado 2025-12-04</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
