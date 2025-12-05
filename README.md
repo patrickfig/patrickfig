@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1977, O voo Malaysia Airlines 653 é sequestrado e cai em Tanjong Kupang, Johor, matando 100 pessoas.
+> Em 1985, O Reino Unido abandona a UNESCO.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Voo Malaysia Airlines 653) • Atualizado 2025-12-04</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Reino Unido) • Atualizado 2025-12-05</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
