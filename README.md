@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1985, O Reino Unido abandona a UNESCO.
+> Em 1745, O exército de Carlos Eduardo Stuart, neto do rei Jaime II de Inglaterra, da destronada Casa de Stuart, começa a recuar durante a segunda Revolta Jacobita. Carlos pretendia recuperar o trono britânico para a sua família …
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Reino Unido) • Atualizado 2025-12-05</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Carlos Eduardo Stuart) • Atualizado 2025-12-06</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
