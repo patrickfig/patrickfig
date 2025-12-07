@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1745, O exército de Carlos Eduardo Stuart, neto do rei Jaime II de Inglaterra, da destronada Casa de Stuart, começa a recuar durante a segunda Revolta Jacobita. Carlos pretendia recuperar o trono britânico para a sua família …
+> Em 1703, A Grande Tempestade de 1703, a maior tempestade já registrada na parte sul da Inglaterra, atinge a costa levando a morte de 9 000 pessoas.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Carlos Eduardo Stuart) • Atualizado 2025-12-06</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Grande Tempestade de 1703) • Atualizado 2025-12-07</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
