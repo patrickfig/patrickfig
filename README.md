@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1703, A Grande Tempestade de 1703, a maior tempestade já registrada na parte sul da Inglaterra, atinge a costa levando a morte de 9 000 pessoas.
+> Em 2010, Com o segundo lançamento do Falcon 9 e o primeiro lançamento da Dragon, a SpaceX se torna a primeira empresa privada a lançar, orbitar e recuperar com sucesso uma espaçonave.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Grande Tempestade de 1703) • Atualizado 2025-12-07</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Falcon 9) • Atualizado 2025-12-08</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
