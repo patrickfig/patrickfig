@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2010, Com o segundo lançamento do Falcon 9 e o primeiro lançamento da Dragon, a SpaceX se torna a primeira empresa privada a lançar, orbitar e recuperar com sucesso uma espaçonave.
+> Em 1917, Primeira Guerra Mundial: o marechal de campo Edmund Allenby captura Jerusalém do Império Otomano.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Falcon 9) • Atualizado 2025-12-08</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Edmund Allenby) • Atualizado 2025-12-09</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
