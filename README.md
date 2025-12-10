@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1917, Primeira Guerra Mundial: o marechal de campo Edmund Allenby captura Jerusalém do Império Otomano.
+> Em 1041, O filho adotivo da imperatriz Zoé Porfirogênita sucede ao trono do Império Romano do Oriente como Miguel V.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Edmund Allenby) • Atualizado 2025-12-09</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Zoé Porfirogênita) • Atualizado 2025-12-10</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
