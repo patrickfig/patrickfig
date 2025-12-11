@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1041, O filho adotivo da imperatriz Zoé Porfirogênita sucede ao trono do Império Romano do Oriente como Miguel V.
+> Em 1998, Lançamento da sonda espacial Mars Climate Orbiter.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Zoé Porfirogênita) • Atualizado 2025-12-10</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Mars Climate Orbiter) • Atualizado 2025-12-11</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
