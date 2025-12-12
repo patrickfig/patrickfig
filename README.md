@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1998, Lançamento da sonda espacial Mars Climate Orbiter.
+> Em 1937, Segunda Guerra Sino-Japonesa: Incidente do USS Panay: aviões japoneses bombardeiam e afundam a canhoneira americana USS Panay no rio Yangtze, na China.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Mars Climate Orbiter) • Atualizado 2025-12-11</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Segunda Guerra Sino-Japonesa) • Atualizado 2025-12-12</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
