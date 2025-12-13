@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1937, Segunda Guerra Sino-Japonesa: Incidente do USS Panay: aviões japoneses bombardeiam e afundam a canhoneira americana USS Panay no rio Yangtze, na China.
+> Em 1865, Guerra do Paraguai: o Paraguai declara guerra ao Brasil.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Segunda Guerra Sino-Japonesa) • Atualizado 2025-12-12</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Guerra do Paraguai) • Atualizado 2025-12-13</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
