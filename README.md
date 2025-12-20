@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2012, Park Geun-hye é eleita a primeira mulher presidente da Coreia do Sul.
+> Em 1917, É fundada a Tcheka, a primeira força policial secreta soviética.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Park Geun-hye) • Atualizado 2025-12-19</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Tcheka) • Atualizado 2025-12-20</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
