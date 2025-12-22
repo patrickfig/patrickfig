@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1607, Início do vice-reinado peruano de Juan de Mendoza y Luna, marquês de Montesclaros.
+> Em 1951, Criado o Exército Popular Iugoslavo na República Socialista Federativa da Iugoslávia, desmantelado em 1992 juntamente com a Iugoslávia.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Juan de Mendoza y Luna) • Atualizado 2025-12-21</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Exército Popular Iugoslavo) • Atualizado 2025-12-22</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
