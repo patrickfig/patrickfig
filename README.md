@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1990, História da Eslovênia: em um referendo, 88,5% do eleitorado geral da Eslovênia votam pela independência da Iugoslávia.
+> Em 1914, Primeira Guerra Mundial: começa a "Trégua de Natal".
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/História da Eslovénia) • Atualizado 2025-12-23</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Trégua de Natal) • Atualizado 2025-12-24</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
