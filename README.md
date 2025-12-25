@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1914, Primeira Guerra Mundial: começa a "Trégua de Natal".
+> Em 820, Leão V, imperador romano-oriental (bizantino), é assassinado em uma igreja do Grande Palácio de Constantinopla por seguidores de Miguel II.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Trégua de Natal) • Atualizado 2025-12-24</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Leão V, o Armênio) • Atualizado 2025-12-25</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
