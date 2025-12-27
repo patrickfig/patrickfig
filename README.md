@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1861, Guerra Civil Americana: o caso Trent: os enviados diplomáticos confederados James Murray Mason e John Slidell são libertados pelo governo dos Estados Unidos, evitando assim uma possível guerra entre os Estados Unidos e …
+> Em 1978, A Espanha se torna uma democracia após 40 anos de ditadura fascista.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Guerra Civil Americana) • Atualizado 2025-12-26</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Espanha) • Atualizado 2025-12-27</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
