@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1978, A Espanha se torna uma democracia após 40 anos de ditadura fascista.
+> Em 1982, Por exigência do FMI, Brasil corta subsídios ao petróleo e aumenta gasolina e gás.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Espanha) • Atualizado 2025-12-27</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Fundo Monetário Internacional) • Atualizado 2025-12-28</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
