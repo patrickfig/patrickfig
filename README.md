@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1982, Por exigência do FMI, Brasil corta subsídios ao petróleo e aumenta gasolina e gás.
+> Em 1965, Uma comissão executiva foi formada para cuidar o projeto definitivo de construção de uma ponte ligando as cidades de Rio de Janeiro e Niterói.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Fundo Monetário Internacional) • Atualizado 2025-12-28</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Ponte Rio-Niterói) • Atualizado 2025-12-29</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
