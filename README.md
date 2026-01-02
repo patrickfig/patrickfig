@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1939, O resto do mundo
+> Em 533, Mercúrio é proclamado Papa da Igreja Católica Apostólica Romana. Como seu nome evocava um deus pagão, este torna-se o primeiro a trocar de nome para o papado, adotando João II.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Philipp Etter) • Atualizado 2026-01-01</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Papa) • Atualizado 2026-01-02</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
