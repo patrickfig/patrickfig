@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 533, Mercúrio é proclamado Papa da Igreja Católica Apostólica Romana. Como seu nome evocava um deus pagão, este torna-se o primeiro a trocar de nome para o papado, adotando João II.
+> Em 1919, Na Conferência da Paz de Paris, o emir Faiçal I do Iraque assina um acordo com o líder sionista Chaim Weizmann sobre o desenvolvimento de uma pátria judaica na Palestina.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Papa) • Atualizado 2026-01-02</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Conferência de Paz de Paris (1919–1920)) • Atualizado 2026-01-03</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
