@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1649, Guerra Civil Inglesa: o Rump Parliament vota para colocar Carlos I em julgamento.
+> Em 1968, Alexander Dubček chega ao poder; a "Primavera de Praga" começa na Tchecoslováquia.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Guerra Civil Inglesa) • Atualizado 2026-01-04</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Alexander Dubček) • Atualizado 2026-01-05</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
