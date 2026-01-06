@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1968, Alexander Dubček chega ao poder; a "Primavera de Praga" começa na Tchecoslováquia.
+> Em 1946, Realizam-se as primeiras eleições gerais no Vietnã.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Alexander Dubček) • Atualizado 2026-01-05</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Eleição) • Atualizado 2026-01-06</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
