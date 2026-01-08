@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1785, O francês Jean-Pierre Blanchard e o norte-americano John Jeffries viajam de Dover, na Grã-Bretanha, até Calais, na França em um balão de gás, tornando-se os primeiros a cruzarem o Canal da Mancha pelo ar.
+> Em 1959, Charles de Gaulle é proclamado o primeiro presidente da Quinta República Francesa.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Jean-Pierre Blanchard) • Atualizado 2026-01-07</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Charles de Gaulle) • Atualizado 2026-01-08</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
