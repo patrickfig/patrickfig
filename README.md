@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1959, Charles de Gaulle é proclamado o primeiro presidente da Quinta República Francesa.
+> Em 1839, Academia Francesa de Ciências anuncia o processo fotográfico daguerreótipo. Foi o primeiro processo fotográfico a ser anunciado e comercializado ao grande público.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Charles de Gaulle) • Atualizado 2026-01-08</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Académie des sciences) • Atualizado 2026-01-09</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
