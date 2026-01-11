@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1907, Classificação da Torre de Belém como Monumento Nacional em Portugal.
+> Em 1995, O voo Intercontinental de Aviación 256, caiu matando 51 pessoas a bordo. A única sobrevivente foi uma menina de nove anos que sofreu ferimentos leves em María La Baja, Colômbia, durante sua aproximação ao Aeroporto de C…
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Torre de Belém) • Atualizado 2026-01-10</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/María la Baja) • Atualizado 2026-01-11</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
