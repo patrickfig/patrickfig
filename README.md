@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2010, Ocorre um sismo no Haiti, matando entre 100 000 e 200 000 pessoas e destruindo grande parte da capital, Porto Príncipe.
+> Em 2012, O navio de cruzeiro Costa Concordia afunda na costa da Itália. 32 mortes foram confirmadas.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Sismo do Haiti de 2010) • Atualizado 2026-01-12</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Cruzeiro (viagem)) • Atualizado 2026-01-13</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
