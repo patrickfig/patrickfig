@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2022, O vulcão Hunga Tonga-Hunga Ha'apai entra em erupção, cortando as comunicações com Tonga e causando um tsunâmi no Pacífico.
+> Em 2020, O Senado dos Estados Unidos ratifica o Acordo Estados Unidos-México-Canadá como substituto do NAFTA.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Erupção e tsunâmi do Hunga Tonga em 2022) • Atualizado 2026-01-15</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Acordo Estados Unidos-México-Canadá) • Atualizado 2026-01-16</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
