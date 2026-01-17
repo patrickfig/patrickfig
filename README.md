@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2020, O Senado dos Estados Unidos ratifica o Acordo Estados Unidos-México-Canadá como substituto do NAFTA.
+> Em 395, Com a morte do imperador Teodósio I, o Império Romano é permanentemente dividido em Império Romano do Oriente governado por Arcádio, e Império Romano do Ocidente governado por Honório.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Acordo Estados Unidos-México-Canadá) • Atualizado 2026-01-16</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Teodósio) • Atualizado 2026-01-17</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
