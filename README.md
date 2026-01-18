@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 395, Com a morte do imperador Teodósio I, o Império Romano é permanentemente dividido em Império Romano do Oriente governado por Arcádio, e Império Romano do Ocidente governado por Honório.
+> Em 1806, Jan Willem Janssens entrega a colônia holandesa do Cabo aos britânicos.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Teodósio) • Atualizado 2026-01-17</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Colónia do Cabo) • Atualizado 2026-01-18</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
