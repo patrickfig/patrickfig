@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1806, Jan Willem Janssens entrega a colônia holandesa do Cabo aos britânicos.
+> Em 2006, Lançamento da sonda espacial New Horizons da Estação da Força Aérea de Cabo Canaveral, na Flórida, com a finalidade de explorar o planeta Plutão e seus satélites.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Colónia do Cabo) • Atualizado 2026-01-18</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Sonda espacial) • Atualizado 2026-01-19</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
