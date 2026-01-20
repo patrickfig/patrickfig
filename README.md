@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2006, Lançamento da sonda espacial New Horizons da Estação da Força Aérea de Cabo Canaveral, na Flórida, com a finalidade de explorar o planeta Plutão e seus satélites.
+> Em 1265, Primeiro parlamento inglês a incluir não só os Lordes, mas também os representantes das principais cidades, realiza seu primeiro encontro no Palácio de Westminster, agora conhecido como "Casas do Parlamento".
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Sonda espacial) • Atualizado 2026-01-19</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Palácio de Westminster) • Atualizado 2026-01-20</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
