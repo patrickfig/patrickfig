@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1265, Primeiro parlamento inglês a incluir não só os Lordes, mas também os representantes das principais cidades, realiza seu primeiro encontro no Palácio de Westminster, agora conhecido como "Casas do Parlamento".
+> Em 2003, Um terremoto de magnitude 7,6 atinge o estado mexicano de Colima, matando 29 pessoas e deixando aproximadamente 10 000 desabrigadas.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Palácio de Westminster) • Atualizado 2026-01-20</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Sismo) • Atualizado 2026-01-21</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
