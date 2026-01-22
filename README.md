@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2003, Um terremoto de magnitude 7,6 atinge o estado mexicano de Colima, matando 29 pessoas e deixando aproximadamente 10 000 desabrigadas.
+> Em 1863, Revolta de Janeiro eclode na Polônia, Lituânia e Bielorrússia. O objetivo do movimento nacional é livrar a República polaco-lituana-rutena da ocupação russa.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Sismo) • Atualizado 2026-01-21</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Revolta de Janeiro) • Atualizado 2026-01-22</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
