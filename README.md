@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1863, Revolta de Janeiro eclode na Polônia, Lituânia e Bielorrússia. O objetivo do movimento nacional é livrar a República polaco-lituana-rutena da ocupação russa.
+> Em 1998, Netscape anuncia a Mozilla, com a intenção de lançar o código Communicator como código aberto.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Revolta de Janeiro) • Atualizado 2026-01-22</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Netscape) • Atualizado 2026-01-23</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
