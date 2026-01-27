@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1934, Assinado o Pacto de Não Agressão Alemão-Polonês.
+> Em 1919, É nomeado em Portugal o 19.º governo republicano, chefiado pelo presidente do Ministério José Relvas.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Pacto de Não Agressão Alemão-Polonês) • Atualizado 2026-01-26</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/19.º governo republicano (Portugal)) • Atualizado 2026-01-27</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
