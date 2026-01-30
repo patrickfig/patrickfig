@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2013, O voo 760 da SCAT Airlines cai perto da cidade cazaque de Almaty, matando 21 pessoas.
+> Em 1826, Inauguração da Ponte Suspensa Menai, considerada a primeira ponte suspensa moderna do mundo, ligando a Ilha de Anglesey à costa noroeste do País de Gales.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/SCAT Airlines) • Atualizado 2026-01-29</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Ponte Suspensa de Menai) • Atualizado 2026-01-30</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
