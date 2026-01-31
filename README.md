@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1826, Inauguração da Ponte Suspensa Menai, considerada a primeira ponte suspensa moderna do mundo, ligando a Ilha de Anglesey à costa noroeste do País de Gales.
+> Em 1950, Guerra Fria: o presidente americano, Harry S. Truman, anuncia um programa para desenvolver a bomba de hidrogênio.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Ponte Suspensa de Menai) • Atualizado 2026-01-30</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Guerra Fria) • Atualizado 2026-01-31</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
