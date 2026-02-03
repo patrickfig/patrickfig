@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1971, Depois de um golpe de Estado no Uganda, o presidente Milton Obote é substituído por Idi Amin.
+> Em 1112, Conde Raimundo Berengário III de Barcelona e condessa Dulce I da Provença se casam, unindo as fortunas desses dois Estados.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Golpe de Estado) • Atualizado 2026-02-02</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Raimundo Berengário III de Barcelona) • Atualizado 2026-02-03</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
