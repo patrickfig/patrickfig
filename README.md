@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1112, Conde Raimundo Berengário III de Barcelona e condessa Dulce I da Provença se casam, unindo as fortunas desses dois Estados.
+> Em 1976, Na Guatemala e em Honduras, um terremoto mata aproximadamente 23 000 pessoas.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Raimundo Berengário III de Barcelona) • Atualizado 2026-02-03</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Honduras) • Atualizado 2026-02-04</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
