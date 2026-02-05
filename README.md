@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1976, Na Guatemala e em Honduras, um terremoto mata aproximadamente 23 000 pessoas.
+> Em 2004, Rebeldes da Frente para a Libertação e Reconstrução National capturam a cidade de Gonaïves, iniciando o Golpe de Estado no Haiti de 2004.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Honduras) • Atualizado 2026-02-04</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Gonaïves) • Atualizado 2026-02-05</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
