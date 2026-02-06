@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2004, Rebeldes da Frente para a Libertação e Reconstrução National capturam a cidade de Gonaïves, iniciando o Golpe de Estado no Haiti de 2004.
+> Em 1984, Começa a operar na Ilha do Rei George, a Estação Antártica Comandante Ferraz, uma base antártica pertencente ao Brasil.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Gonaïves) • Atualizado 2026-02-05</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Ilha do Rei George) • Atualizado 2026-02-06</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
