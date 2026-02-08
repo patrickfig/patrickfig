@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1988, O Sport se consagra campeão brasileiro de 1987
+> Em 2013, Uma tempestade de neve interrompe o transporte e deixa centenas de milhares de pessoas sem eletricidade no Nordeste dos Estados Unidos e em partes do Canadá.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Sport Club do Recife) • Atualizado 2026-02-07</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Tempestade do Cabo Hatteras em 2013) • Atualizado 2026-02-08</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
