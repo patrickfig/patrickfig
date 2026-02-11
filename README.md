@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1930, O Việt Nam Quốc Dân Đảng lança o fracassado motim Yên Bái na esperança de derrubar o protetorado francês sobre o Vietnã.
+> Em 1534, Henrique VIII da Inglaterra é reconhecido como chefe supremo da Igreja da Inglaterra.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Việt Nam Quốc Dân Đảng) • Atualizado 2026-02-10</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Henrique VIII de Inglaterra) • Atualizado 2026-02-11</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
