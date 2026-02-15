@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1804, Jorge Negro lidera a Primeira Revolta Sérvia contra o Império Otomano.
+> Em 1835, A Constituição de Sretenje da Sérvia entra em vigor brevemente.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Jorge Negro) • Atualizado 2026-02-14</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Constituição da Sérvia de 1835) • Atualizado 2026-02-15</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
