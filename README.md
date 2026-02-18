@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1992, Primeira Guerra de Nagorno-Karabakh: tropas armênias massacram mais de 20 civis do Azerbaijão durante a captura de Garadaghly.
+> Em 1332, Ámeda-Sion I, imperador da Etiópia inicia suas campanhas nas províncias muçulmanas do sul.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Guerra do Alto Carabaque (1988–1994)) • Atualizado 2026-02-17</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Ámeda-Sion I) • Atualizado 2026-02-18</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
