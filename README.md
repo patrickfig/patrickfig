@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1332, Ámeda-Sion I, imperador da Etiópia inicia suas campanhas nas províncias muçulmanas do sul.
+> Em 197, Imperador Septímio Severo derrota o usurpador Clódio Albino na Batalha de Lugduno, a batalha mais sangrenta entre os exércitos romanos.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Ámeda-Sion I) • Atualizado 2026-02-18</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Septímio Severo) • Atualizado 2026-02-19</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
