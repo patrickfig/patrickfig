@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2017, Nações Unidas e Sudão do Sul declaram estado de carestia no país.
+> Em 1937, A Liga das Nações proíbe os "voluntários" estrangeiros na Guerra Civil Espanhola.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Organização das Nações Unidas) • Atualizado 2026-02-20</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Sociedade das Nações) • Atualizado 2026-02-21</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
