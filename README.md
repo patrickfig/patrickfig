@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1904, Estados Unidos obtêm o controle do Canal do Panamá por 10 milhões de dólares.
+> Em 2016, Voo Tara Air 193, uma aeronave De Havilland Canada DHC-6 Twin Otter, cai matando 23 pessoas em Solighopte, distrito de Myagdi, quando voava de Pokhara para Jomsom no Nepal.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Canal do Panamá) • Atualizado 2026-02-23</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Voo Tara Air 193) • Atualizado 2026-02-24</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
