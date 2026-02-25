@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2016, Voo Tara Air 193, uma aeronave De Havilland Canada DHC-6 Twin Otter, cai matando 23 pessoas em Solighopte, distrito de Myagdi, quando voava de Pokhara para Jomsom no Nepal.
+> Em 1916, Primeira Guerra Mundial: na Batalha de Verdun, uma unidade alemã captura o Forte Douaumont, pedra angular das defesas francesas, sem luta.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Voo Tara Air 193) • Atualizado 2026-02-24</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Primeira Guerra Mundial) • Atualizado 2026-02-25</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
