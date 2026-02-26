@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1916, Primeira Guerra Mundial: na Batalha de Verdun, uma unidade alemã captura o Forte Douaumont, pedra angular das defesas francesas, sem luta.
+> Em 2013, Um balão de ar quente cai perto de Luxor, no Egito, matando 19 pessoas.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Primeira Guerra Mundial) • Atualizado 2026-02-25</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Balão de ar quente) • Atualizado 2026-02-26</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
