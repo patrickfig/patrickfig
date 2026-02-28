@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 425, Fundação da Universidade de Constantinopla pelo imperador Teodósio II a pedido de sua esposa Élia Eudócia.
+> Em -202, Liu Bang é entronizado como Imperador da China, iniciando quatro séculos de governo da Dinastia Han.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Universidade de Constantinopla) • Atualizado 2026-02-27</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Gaozu de Han) • Atualizado 2026-02-28</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
