@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1457, Fundação da Unitas Fratrum na aldeia de Kunvald, fronteira da Boêmia com a Morávia. É a segunda denominação protestante mais antiga.
+> Em 1836, Revolução do Texas: é adotada a Declaração de independência da República do Texas do México.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Igreja dos Irmãos Morávios) • Atualizado 2026-03-01</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Revolução do Texas) • Atualizado 2026-03-02</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
