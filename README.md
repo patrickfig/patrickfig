@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1714, Tratado de Rastatt: término da Guerra da Sucessão Espanhola.
+> Em 2009, Lançamento do observatório espacial Kepler, projetado para descobrir planetas semelhantes à Terra orbitando em outras estrelas.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Tratado de Rastatt) • Atualizado 2026-03-06</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Observatório espacial) • Atualizado 2026-03-07</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
