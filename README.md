@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1950, A União Soviética anuncia a existência de sua bomba atômica.
+> Em 1825, Guerra da Independência do Brasil: O México reconhece a independência do Brasil.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/União Soviética) • Atualizado 2026-03-08</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Guerra da Independência do Brasil) • Atualizado 2026-03-09</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
