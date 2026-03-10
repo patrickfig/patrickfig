@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1825, Guerra da Independência do Brasil: O México reconhece a independência do Brasil.
+> Em 1959, Revolta no Tibete: temendo uma tentativa de sequestro pela China, 300 000 tibetanos cercam o palácio do Dalai Lama para impedir a sua remoção.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Guerra da Independência do Brasil) • Atualizado 2026-03-09</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Revolta no Tibete em 1959) • Atualizado 2026-03-10</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
