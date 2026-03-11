@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1959, Revolta no Tibete: temendo uma tentativa de sequestro pela China, 300 000 tibetanos cercam o palácio do Dalai Lama para impedir a sua remoção.
+> Em 1900, Segunda Guerra dos Bôeres: O primeiro-ministro do Reino Unido rejeita a proposta de paz do líder dos boêres Paul Kruger.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Revolta no Tibete em 1959) • Atualizado 2026-03-10</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Segunda Guerra dos Bôeres) • Atualizado 2026-03-11</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
