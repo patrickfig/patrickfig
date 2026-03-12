@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1900, Segunda Guerra dos Bôeres: O primeiro-ministro do Reino Unido rejeita a proposta de paz do líder dos boêres Paul Kruger.
+> Em 1950, O desastre aéreo de Llandow ocorre perto de Sigingstone, País de Gales matando 80 pessoas. Foi o pior acidente da história na época com uma aeronave civil.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Segunda Guerra dos Bôeres) • Atualizado 2026-03-11</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Desastre aéreo de Llandow) • Atualizado 2026-03-12</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
