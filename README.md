@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2013, É eleito o Papa Francisco no conclave papal.
+> Em 1780, Guerra Revolucionária Americana: as forças espanholas capturam o Forte Charlotte em Mobile, Alabama, o último posto de fronteira britânico capaz de ameaçar Nova Orleans.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Papa Francisco) • Atualizado 2026-03-13</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Guerra de Independência dos Estados Unidos) • Atualizado 2026-03-14</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
