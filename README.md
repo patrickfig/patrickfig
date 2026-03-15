@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1780, Guerra Revolucionária Americana: as forças espanholas capturam o Forte Charlotte em Mobile, Alabama, o último posto de fronteira britânico capaz de ameaçar Nova Orleans.
+> Em 493, Odoacro, o primeiro rei da Itália após a queda do Império Romano do Ocidente, é morto por Teodorico, o Grande, rei dos ostrogodos, enquanto os dois reis festejavam juntos.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Guerra de Independência dos Estados Unidos) • Atualizado 2026-03-14</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Odoacro) • Atualizado 2026-03-15</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
