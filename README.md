@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1987, Food and Drug Administration aprova a droga AZT no combate a AIDS/SIDA.
+> Em 1844, Início do Calendário bahá'í. Este é o primeiro dia do primeiro ano do calendário bahá'í. É anualmente celebrado pelos membros da Fé bahá'í como o Ano Novo Bahá'í ou Naw-Rúz.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Food and Drug Administration) • Atualizado 2026-03-20</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Calendário bahá'í) • Atualizado 2026-03-21</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
