@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1844, Início do Calendário bahá'í. Este é o primeiro dia do primeiro ano do calendário bahá'í. É anualmente celebrado pelos membros da Fé bahá'í como o Ano Novo Bahá'í ou Naw-Rúz.
+> Em 2019, Mais de 1 000 mortos e uma quantidade desconhecida de desaparecidos após o ciclone Idai atingir os países Zimbábue, Malawi e Moçambique.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Calendário bahá'í) • Atualizado 2026-03-21</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Ciclone Idai) • Atualizado 2026-03-22</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
