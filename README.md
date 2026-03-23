@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2019, Mais de 1 000 mortos e uma quantidade desconhecida de desaparecidos após o ciclone Idai atingir os países Zimbábue, Malawi e Moçambique.
+> Em 1839, Um grande terremoto destrói a antiga capital Ava da dinastia Konbaung, atual Mianmar.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Ciclone Idai) • Atualizado 2026-03-22</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Sismo) • Atualizado 2026-03-23</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
