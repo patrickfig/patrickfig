@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1964, O Sismo da Sexta-feira Santa, o mais poderoso já registrado na história dos Estados Unidos, com uma magnitude de 9,2 atinge o Centro-Sul do Alasca, matando 125 pessoas e causando enormes prejuízos para a cidade de Ancho…
+> Em 1946, Guerra Fria: o Departamento de Estado dos Estados Unidos publica o Relatório Acheson Lilienthal, delineando um plano para o controle internacional da energia nuclear.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Sismo do Alasca de 1964) • Atualizado 2026-03-27</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Guerra Fria) • Atualizado 2026-03-28</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
