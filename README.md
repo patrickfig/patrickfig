@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 502, O rei Gundebaldo expede um novo código legal (Lex Burgundionum) em Lyon, que submete os galo-romanos e os burgúndios às mesmas leis.
+> Em 2022, Descoberta pelo telescópio Hubble, WHL0137-LS, é a estrela mais distante já conhecida, com 12,9 bilhões de anos-luz da Terra.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Gundebaldo) • Atualizado 2026-03-29</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Telescópio espacial Hubble) • Atualizado 2026-03-30</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
