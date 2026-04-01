@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1839, Batalha de Pago Largo: travada entre as tropas das províncias argentinas de Entre Ríos e Corrientes.
+> Em 1935, A instituição bancária central da Índia, o Banco da Reserva da Índia, é formada.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Batalha de Pago Largo) • Atualizado 2026-03-31</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Reserve Bank of India) • Atualizado 2026-04-01</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
