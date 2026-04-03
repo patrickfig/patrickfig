@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2024, Tomada de posse do XVIV Governo constitucional português, liderado por Luís Montenegro.
+> Em 2017, Uma bomba explode no sistema de metrô de São Petersburgo, matando 14 pessoas e ferindo várias outras.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/XXIV Governo Constitucional de Portugal) • Atualizado 2026-04-02</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Ataque no metrô de São Petersburgo em 2017) • Atualizado 2026-04-03</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
