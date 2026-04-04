@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2017, Uma bomba explode no sistema de metrô de São Petersburgo, matando 14 pessoas e ferindo várias outras.
+> Em 1975, Fundação da Microsoft em Albuquerque, Estados Unidos, uma parceria entre Bill Gates e Paul Allen.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Ataque no metrô de São Petersburgo em 2017) • Atualizado 2026-04-03</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Microsoft) • Atualizado 2026-04-04</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
