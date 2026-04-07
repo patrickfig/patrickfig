@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1945, Segunda Guerra Mundial: Sarajevo é libertada das forças alemãs e croatas pelos partisans iugoslavos.
+> Em 1992, A República Sérvia anuncia a sua independência.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Sarajevo) • Atualizado 2026-04-06</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/República Sérvia) • Atualizado 2026-04-07</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
