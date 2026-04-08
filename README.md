@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1992, A República Sérvia anuncia a sua independência.
+> Em 1906, Morre Auguste Deter, a primeira pessoa a ser diagnosticada com a doença de Alzheimer.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/República Sérvia) • Atualizado 2026-04-07</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Auguste Deter) • Atualizado 2026-04-08</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
