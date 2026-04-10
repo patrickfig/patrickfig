@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1609, Guerra dos Oitenta Anos: a Espanha e a República Neerlandesa assinam o Tratado de Antuérpia para iniciar doze anos de trégua.
+> Em 1998, Assinatura do Acordo de Belfast.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Guerra dos Oitenta Anos) • Atualizado 2026-04-09</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Acordo de Belfast) • Atualizado 2026-04-10</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
