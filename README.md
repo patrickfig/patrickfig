@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1544, Guerra Italiana de 1542-46: As forças francesas derrotaram o exército espanhol na Batalha de Ceresole.
+> Em 1671, Papa Clemente X beatifica Santa Rosa de Lima, tornando-se a primeira santa nascida na América.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Guerra Italiana de 1542–1546) • Atualizado 2026-04-11</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Papa Clemente X) • Atualizado 2026-04-12</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
