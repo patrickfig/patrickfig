@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1671, Papa Clemente X beatifica Santa Rosa de Lima, tornando-se a primeira santa nascida na América.
+> Em 2017, Estados Unidos lançam a maior bomba não-nuclear da história sobre o Afeganistão, a GBU-43, numa zona então supostamente ocupada por elementos do Daesh.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Papa Clemente X) • Atualizado 2026-04-12</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Estados Unidos) • Atualizado 2026-04-13</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
