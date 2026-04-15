@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1939, As Vinhas da Ira, do escritor norte-americano John Steinbeck é publicado pela Viking Press.
+> Em 1989, Começa em Pequim o Protesto na Praça da Paz Celestial devido a morte de Hu Yaobang.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/As Vinhas da Ira) • Atualizado 2026-04-14</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Pequim) • Atualizado 2026-04-15</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
