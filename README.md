@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1346, Estêvão Uresis IV, é proclamado imperador, com o Império Sérvio ocupando grande parte dos Bálcãs.
+> Em 1946, Síria obtém a sua independência da ocupação francesa.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Estêvão Úresis IV) • Atualizado 2026-04-16</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Síria) • Atualizado 2026-04-17</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
