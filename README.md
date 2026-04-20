@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1810, Revolução de 19 de Abril de 1810: criação de um governo autônomo em Caracas, dando início ao processo de independência da Venezuela.
+> Em 1978, Voo Korean Air Lines 902 é abatido pela União Soviética.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Revolução de 19 de Abril de 1810) • Atualizado 2026-04-19</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Voo Korean Air Lines 902) • Atualizado 2026-04-20</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
