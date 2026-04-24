@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1971, Guerra de Libertação de Bangladesh: o Exército do Paquistão e os Razakars massacram aproximadamente 3 000 emigrantes hindus na área de Jathibhanga, no Paquistão Oriental (atual Bangladesh).
+> Em -1184, Data tradicional da queda de Troia. Marcando o fim da lendária Guerra de Tróia, data dada pelo bibliotecário-chefe da Biblioteca de Alexandria Eratóstenes, entre outros.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Guerra de Independência de Bangladesh) • Atualizado 2026-04-23</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Guerra de Troia) • Atualizado 2026-04-24</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
