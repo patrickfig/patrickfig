@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em -1184, Data tradicional da queda de Troia. Marcando o fim da lendária Guerra de Tróia, data dada pelo bibliotecário-chefe da Biblioteca de Alexandria Eratóstenes, entre outros.
+> Em 2025, O ex-presidente do Brasil, Fernando Collor de Mello, é por corrupção e lavagem de dinheiro.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Guerra de Troia) • Atualizado 2026-04-24</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Brasil) • Atualizado 2026-04-25</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
