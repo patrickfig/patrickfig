@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1933, A Alemanha nazista emite a Lei Contra a Superlotação em Escolas e Universidades, limitando o número de estudantes judeus que podem frequentar escolas públicas e universidades.
+> Em 1927, São criados os Carabineros de Chile (polícia e gendarmeria nacional chilena).
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Alemanha Nazista) • Atualizado 2026-04-26</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Carabineiros do Chile) • Atualizado 2026-04-27</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
