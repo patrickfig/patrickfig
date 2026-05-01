@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1905, Albert Einstein conclui sua tese de doutorado na Universidade de Zurique.
+> Em 2006, Criação oficial no Brasil da Confederação Brasileira de Muaythai Tradicional (CBMTT).
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Albert Einstein) • Atualizado 2026-04-30</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Brasil) • Atualizado 2026-05-01</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
