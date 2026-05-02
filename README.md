@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2006, Criação oficial no Brasil da Confederação Brasileira de Muaythai Tradicional (CBMTT).
+> Em 1962, O Sport Lisboa e Benfica conquistou pela segunda vez o título de campeão da Liga dos Campeões da UEFA, depois de derrotar o Real Madrid Club de Fútbol, sendo o primeiro clube português conquistar pela segunda vez este t…
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Brasil) • Atualizado 2026-05-01</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Sport Lisboa e Benfica) • Atualizado 2026-05-02</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
