@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 553, Se dá o início do Segundo Concílio de Constantinopla.
+> Em 1954, Roger Bannister torna-se a primeira pessoa a correr a milha em menos de quatro minutos.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Segundo Concílio de Constantinopla) • Atualizado 2026-05-05</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Roger Bennister) • Atualizado 2026-05-06</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
