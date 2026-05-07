@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1954, Roger Bannister torna-se a primeira pessoa a correr a milha em menos de quatro minutos.
+> Em 2000, Vladimir Putin toma posse como presidente da Rússia, naquele que seria seu primeiro mandato.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Roger Bennister) • Atualizado 2026-05-06</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Vladimir Putin) • Atualizado 2026-05-07</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
