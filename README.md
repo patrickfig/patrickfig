@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1980, A Organização Mundial da Saúde confirma a erradicação da varíola.
+> Em 1945, Segunda Guerra Mundial: o Instrumento da rendição alemã é ratificado no quartel soviético em Berlim-Karlshorst.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Organização Mundial da Saúde) • Atualizado 2026-05-08</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Segunda Guerra Mundial) • Atualizado 2026-05-09</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
