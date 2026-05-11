@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1941, Segunda Guerra Mundial: Rudolf Hess salta de paraquedas na Escócia para tentar negociar um acordo de paz entre o Reino Unido e a Alemanha nazista.
+> Em 1820, É lançado à água no Reino Unido o HMS Beagle, navio que, uma década depois, levará Charles Darwin em sua viagem científica.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Rudolf Hess) • Atualizado 2026-05-10</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/HMS Beagle) • Atualizado 2026-05-11</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
