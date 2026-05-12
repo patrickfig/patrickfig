@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1820, É lançado à água no Reino Unido o HMS Beagle, navio que, uma década depois, levará Charles Darwin em sua viagem científica.
+> Em 2017, Um ataque de ransomware atinge mais de 400 mil computadores em todo o mundo, tendo como alvo computadores do Serviço Nacional de Saúde do Reino Unido e os computadores da Telefónica.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/HMS Beagle) • Atualizado 2026-05-11</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Ransomware) • Atualizado 2026-05-12</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
