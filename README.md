@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1940, Segunda Guerra Mundial: Ultra ataque mata cerca de 900 pessoas em Roterdã, nos Países Baixos.
+> Em 2018, A Rússia inaugura a mais longa ponte da Europa, a Ponte da Crimeia, sobre o estreito de Kerch dando acesso terrestre viário e ferroviário pela Rússia à Crimeia.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Segunda Guerra Mundial) • Atualizado 2026-05-14</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Rússia) • Atualizado 2026-05-15</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
