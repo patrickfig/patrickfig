@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2011, STS-134 (sequência de montagem da ISS voo ULF6), lançado do Centro Espacial John F. Kennedy no 25.º e último voo do ônibus espacial Endeavor.
+> Em 1943, Segunda Guerra Mundial: começam os Ataques Dam Busters pelo Esquadrão N.º 617 da RAF.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/STS-134) • Atualizado 2026-05-16</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Operação Chastise) • Atualizado 2026-05-17</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
