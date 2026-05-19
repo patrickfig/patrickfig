@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 872, Luís II da Germânia é coroado pela segunda vez como Imperador Romano-Germânico em Roma, com a idade de 47 anos. Sua primeira coroação foi 28 anos antes, em 844, durante o reinado de seu pai Lotário I.
+> Em 1268, Principado de Antioquia cai após o saque de Antioquia por Baibars.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Luís II da Germânia) • Atualizado 2026-05-18</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Principado de Antioquia) • Atualizado 2026-05-19</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
