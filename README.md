@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1268, Principado de Antioquia cai após o saque de Antioquia por Baibars.
+> Em 1969, Término da Batalha de Hamburger Hill no Vietnã.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Principado de Antioquia) • Atualizado 2026-05-19</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Batalha de Hamburger Hill) • Atualizado 2026-05-20</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
