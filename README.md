@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1703, Daniel Defoe, autor de Robinson Crusoe, é preso sob a acusação de difamação sediciosa.
+> Em 2015, A República da Irlanda se torna a primeira nação do mundo a legalizar o casamento gay em um referendo público.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Daniel Defoe) • Atualizado 2026-05-21</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Irlanda) • Atualizado 2026-05-22</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
