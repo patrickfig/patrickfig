@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1915, Primeira Guerra Mundial: a Itália se junta aos Aliados, cumprindo sua parte do Tratado de Londres.
+> Em 1967, Guerra dos Seis Dias: O Egito impõe um bloqueio e cerco à costa do Mar Vermelho de Israel.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Primeira Guerra Mundial) • Atualizado 2026-05-23</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Guerra dos Seis Dias) • Atualizado 2026-05-24</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
