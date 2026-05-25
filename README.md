@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1967, Guerra dos Seis Dias: O Egito impõe um bloqueio e cerco à costa do Mar Vermelho de Israel.
+> Em 1953, Teste de armas nucleares: na Área de Testes de Nevada, os Estados Unidos realizam seu primeiro e único teste de artilharia nuclear
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Guerra dos Seis Dias) • Atualizado 2026-05-24</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Teste de arma nuclear) • Atualizado 2026-05-25</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
