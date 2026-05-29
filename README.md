@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2008, O Nepal se torna uma república, colocando fim a 240 anos de monarquia. A assembleia constituinte do Nepal aboliu em 25 de maio a última monarquia hinduísta do mundo.
+> Em 1537, Emitida a Bula do Papa Paulo II contra a escravização dos índios.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Nepal) • Atualizado 2026-05-28</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Sublimis Deus) • Atualizado 2026-05-29</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
