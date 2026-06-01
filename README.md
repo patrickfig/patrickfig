@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 455, Imperador Petrônio Máximo é apedrejado até a morte por uma multidão enfurecida enquanto fugia de Roma.
+> Em 1945, Segunda Guerra Mundial: os aliados bombardeiam Osaka, a segunda cidade do Japão, que fica arrasada após receber uma carga de nada menos que 6 110 toneladas de explosivos despejados por aviões bombardeios B-29 acabando p…
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Petrônio Máximo) • Atualizado 2026-05-31</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Segunda Guerra Mundial) • Atualizado 2026-06-01</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
