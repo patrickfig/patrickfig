@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1900, O cientista brasileiro Roberto Landell de Moura, testa com sucesso aparelhos que transmitiram sem fios sons e sinais telegráficos.
+> Em 1792, Capitão George Vancouver reivindica Puget Sound para o Reino da Grã-Bretanha.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Roberto Landell de Moura) • Atualizado 2026-06-03</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/George Vancouver) • Atualizado 2026-06-04</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
