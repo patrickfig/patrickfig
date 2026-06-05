@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1792, Capitão George Vancouver reivindica Puget Sound para o Reino da Grã-Bretanha.
+> Em 2022, Um referendo constitucional é realizado no Cazaquistão após protestos violentos e agitação civil contra o governo.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/George Vancouver) • Atualizado 2026-06-04</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Referendo constitucional no Cazaquistão em 2022) • Atualizado 2026-06-05</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
