@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2022, Um referendo constitucional é realizado no Cazaquistão após protestos violentos e agitação civil contra o governo.
+> Em 1971, Uma colisão no ar entre um avião a jato Hughes Airwest Douglas DC-9 e um caça McDonnell Douglas F-4 Phantom II do Corpo de Fuzileiros Navais dos Estados Unidos perto de Duarte, na Califórnia, provoca a morte de 50 pesso…
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Referendo constitucional no Cazaquistão em 2022) • Atualizado 2026-06-05</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Voo Hughes Airwest 706) • Atualizado 2026-06-06</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
