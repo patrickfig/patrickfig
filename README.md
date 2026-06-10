@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2019, Centenas de milhares de pessoas protestam em Hong Kong, China, contra o projeto de lei relativo à extradição.
+> Em 1918, O navio de guerra austro-húngaro SMS Szent István afunda na costa da Croácia depois de ter sido torpedeado por uma lancha italiana; o evento é gravado pela câmera de um navio próximo.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Protestos em Hong Kong em 2019–2020) • Atualizado 2026-06-09</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Marinha Austro-Húngara) • Atualizado 2026-06-10</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
