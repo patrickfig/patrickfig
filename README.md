@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1918, O navio de guerra austro-húngaro SMS Szent István afunda na costa da Croácia depois de ter sido torpedeado por uma lancha italiana; o evento é gravado pela câmera de um navio próximo.
+> Em 1935, O inventor Edwin Armstrong faz a primeira demonstração pública de transmissão de FM nos Estados Unidos em Alpine, Nova Jérsei.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Marinha Austro-Húngara) • Atualizado 2026-06-10</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Edwin Armstrong) • Atualizado 2026-06-11</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
