@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1935, O inventor Edwin Armstrong faz a primeira demonstração pública de transmissão de FM nos Estados Unidos em Alpine, Nova Jérsei.
+> Em 1643, A Assembleia de Westminster é convocada pelo Parlamento da Inglaterra, sem o consentimento de Carlos I, a fim de reestruturar a Igreja da Inglaterra.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Edwin Armstrong) • Atualizado 2026-06-11</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Assembleia de Westminster) • Atualizado 2026-06-12</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
