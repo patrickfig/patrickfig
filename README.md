@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1643, A Assembleia de Westminster é convocada pelo Parlamento da Inglaterra, sem o consentimento de Carlos I, a fim de reestruturar a Igreja da Inglaterra.
+> Em 2019, Dois navios petroleiros são atacados no golfo de Omã, em meio a intensas tensões entre o Irã e os Estados Unidos.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Assembleia de Westminster) • Atualizado 2026-06-12</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Incidente no Golfo de Omã em junho de 2019) • Atualizado 2026-06-13</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
