@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2019, Dois navios petroleiros são atacados no golfo de Omã, em meio a intensas tensões entre o Irã e os Estados Unidos.
+> Em 2002, O asteroide próximo à Terra 2002 MN, passa a 121 000 km, cerca de um terço da distância entre a Terra e a Lua.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Incidente no Golfo de Omã em junho de 2019) • Atualizado 2026-06-13</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Objetos próximos da Terra) • Atualizado 2026-06-14</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
