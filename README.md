@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1954, Início da Copa do Mundo FIFA na Suíça.
+> Em 1967, Teste de arma nuclear: a República Popular da China anuncia um teste bem-sucedido de sua primeira arma termonuclear.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Copa do Mundo FIFA de 1954) • Atualizado 2026-06-16</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Teste de arma nuclear) • Atualizado 2026-06-17</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
