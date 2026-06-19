@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1757, Batalha de Kolin entre as forças prussianas sob o comando de Frederico, o Grande e um exército austríaco na Guerra dos Sete Anos.
+> Em 1718, Pelo menos 73 000 pessoas morreram no terremoto Tongwei-Gansu de 1718 devido a deslizamentos de terra na dinastia Qing.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Batalha de Kolin) • Atualizado 2026-06-18</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Terremoto Tongwei-Gansu de 1718) • Atualizado 2026-06-19</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
