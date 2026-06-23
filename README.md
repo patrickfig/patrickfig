@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1990, Guerra Fria: Checkpoint Charlie é desmantelado em Berlim.
+> Em 1969, IBM anuncia que, a partir de janeiro de 1970, o preço de seus softwares e serviços será avaliado separadamente do hardware, criando assim a moderna indústria de software.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Guerra Fria) • Atualizado 2026-06-22</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/IBM) • Atualizado 2026-06-23</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
