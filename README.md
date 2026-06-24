@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1969, IBM anuncia que, a partir de janeiro de 1970, o preço de seus softwares e serviços será avaliado separadamente do hardware, criando assim a moderna indústria de software.
+> Em -217, Os romanos, liderados por Caio Flamínio, são emboscados e derrotados por Aníbal na Batalha do Lago Trasimeno.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/IBM) • Atualizado 2026-06-23</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Caio Flamínio) • Atualizado 2026-06-24</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
