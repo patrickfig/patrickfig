@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2007, O Papa Bento XVI restabelece as leis tradicionais da eleição papal em que um candidato bem-sucedido deve receber dois terços dos votos.
+> Em 1972, Fundação da empresa de produtos eletrônicos Atari.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Papa Bento XVI) • Atualizado 2026-06-26</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Atari) • Atualizado 2026-06-27</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
