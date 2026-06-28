@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1972, Fundação da empresa de produtos eletrônicos Atari.
+> Em 2004, Guerra do Iraque: o poder soberano é entregue ao Governo Interino Iraquiano pela Autoridade Provisória da Coalizão, pondo fim ao governo norte-americano dessa nação.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Atari) • Atualizado 2026-06-27</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Guerra do Iraque) • Atualizado 2026-06-28</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
