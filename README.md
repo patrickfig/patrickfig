@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2004, Guerra do Iraque: o poder soberano é entregue ao Governo Interino Iraquiano pela Autoridade Provisória da Coalizão, pondo fim ao governo norte-americano dessa nação.
+> Em 1916, O diplomata britânico Roger Casement, que se tornou nacionalista irlandês, é condenado à morte por seu papel na Revolta da Páscoa.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Guerra do Iraque) • Atualizado 2026-06-28</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Roger Casement) • Atualizado 2026-06-29</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
