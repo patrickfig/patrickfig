@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1916, O diplomata britânico Roger Casement, que se tornou nacionalista irlandês, é condenado à morte por seu papel na Revolta da Páscoa.
+> Em 1900, Um incêndio selvagem destruiu três navios a vapor atracados em um píer em Hoboken, Nova Jersey. Mais de 200 tripulantes e passageiros morreram e centenas ficaram feridos.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Roger Casement) • Atualizado 2026-06-29</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Incêndio) • Atualizado 2026-06-30</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
