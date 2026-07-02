@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2002, Criada a Corte Penal Internacional para processar indivíduos por genocídio, crimes contra a humanidade, crimes de guerra e crime de agressão.
+> Em 1824, É fundada a Confederação do Equador, um movimento revolucionário de caráter republicano e separatista que eclodiu em Pernambuco, se alastrando para outras províncias do Nordeste do Brasil.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Tribunal Penal Internacional) • Atualizado 2026-07-01</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Confederação do Equador) • Atualizado 2026-07-02</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
