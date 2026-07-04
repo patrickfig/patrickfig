@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1844, O último casal de Arau-gigante é morto.
+> Em 1934, Leó Szilárd patenteia o projeto de reação em cadeia que mais tarde seria usado na bomba atômica.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Arau-gigante) • Atualizado 2026-07-03</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Leó Szilárd) • Atualizado 2026-07-04</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
