@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1944, Segunda Guerra Mundial: a maior carga banzai da Guerra do Pacífico é empregada na Batalha de Saipan.
+> Em 1912, Henrique Mitchell de Paiva Couceiro lidera um ataque monarquista malsucedido contra a Primeira República Portuguesa em Chaves.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Carga banzai) • Atualizado 2026-07-07</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Paiva Couceiro) • Atualizado 2026-07-08</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
