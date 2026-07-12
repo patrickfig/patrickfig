@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1920, No plebiscito da Prússia Oriental, a população local decide permanecer com a Alemanha de Weimar.
+> Em 1470, Os otomanos capturam Eubéia.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Prússia Oriental) • Atualizado 2026-07-11</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Império Otomano) • Atualizado 2026-07-12</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
