@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1915, Início da Correspondência Huceine-McMahon entre Hussein bin Ali, Sharif de Meca e o oficial britânico Henry McMahon sobre a Revolta Árabe contra o Império Otomano.
+> Em 70, Primeira Guerra Judaico-Romana: Tito e seus exércitos invadem os muros de Jerusalém.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Correspondência Huceine-McMahon) • Atualizado 2026-07-14</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Primeira guerra judaico-romana) • Atualizado 2026-07-15</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
