@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1994, O cometa Shoemaker-Levy 9 é destruído em uma colisão frontal com Júpiter.
+> Em 1048, Dâmaso II é eleito papa e morre 23 dias depois.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Cometa Shoemaker-Levy 9) • Atualizado 2026-07-16</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Papa Dâmaso II) • Atualizado 2026-07-17</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
