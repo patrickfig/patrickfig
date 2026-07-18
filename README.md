@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1048, Dâmaso II é eleito papa e morre 23 dias depois.
+> Em 1992, Uma foto de Les Horribles Cernettes foi tirada, que se tornou a primeira foto postada na World Wide Web.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Papa Dâmaso II) • Atualizado 2026-07-17</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Les Horribles Cernettes) • Atualizado 2026-07-18</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
