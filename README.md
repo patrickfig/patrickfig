@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1900, Entra em operação a Linha 1 do metrô de Paris.
+> Em 1999, O Partido Comunista da China inicia uma campanha de perseguição contra o Falun Gong, prendendo milhares em todo o país.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Linha 1 do Metropolitano de Paris) • Atualizado 2026-07-19</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Partido Comunista da China) • Atualizado 2026-07-20</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
