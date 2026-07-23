@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1298, Guerras de independência da Escócia: Batalha de Falkirk: o rei Eduardo I da Inglaterra e seus arqueiros derrotam William Wallace e seus lanceiros escoceses fora da cidade.
+> Em 1829, Nos Estados Unidos, William Austin Burt patenteia o tipógrafo, precursor da máquina de escrever.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Guerras de independência da Escócia) • Atualizado 2026-07-22</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/William Austin Burt) • Atualizado 2026-07-23</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
