@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1829, Nos Estados Unidos, William Austin Burt patenteia o tipógrafo, precursor da máquina de escrever.
+> Em 2013, O Clube Atlético Mineiro conquistou pela primeira vez o título de campeão da Copa Libertadores da América, depois de derrotar o Club Olímpia.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/William Austin Burt) • Atualizado 2026-07-23</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Clube Atlético Mineiro) • Atualizado 2026-07-24</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
