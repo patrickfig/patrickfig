@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1137, Leonor da Aquitânia casa-se com o príncipe Luís, mais tarde rei Luís VII da França, na Catedral de Saint-André em Bordéus.
+> Em 1958, Programa Explorer: o Explorer 4 é lançado.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Leonor da Aquitânia) • Atualizado 2026-07-25</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Programa Explorer) • Atualizado 2026-07-26</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
