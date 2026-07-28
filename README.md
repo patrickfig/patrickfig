@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1214, Batalha de Bouvines: Filipe II da França derrota decisivamente os exércitos do Sacro Império, inglês e flamengo, efetivamente acabando com o Império Angevino de João da Inglaterra.
+> Em 1996, Descobertos os restos de um homem pré-histórico perto de Kennewick, Washington. Tais vestígios serão conhecidos como o Homem de Kennewick.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Batalha de Bouvines) • Atualizado 2026-07-27</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Pré-história) • Atualizado 2026-07-28</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
