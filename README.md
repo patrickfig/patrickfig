@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1030, Guerras da sucessão de Ladejarl-Fairhair: Batalha de Stiklestad: o rei Olavo II da Noruega luta e morre tentando recuperar seu trono dos dinamarqueses.
+> Em 762, O califa abássida Almançor funda Bagdá para ser a nova capital.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Condes de Lade) • Atualizado 2026-07-29</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Califado Abássida) • Atualizado 2026-07-30</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
