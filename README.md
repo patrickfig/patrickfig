@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 762, O califa abássida Almançor funda Bagdá para ser a nova capital.
+> Em 2022, Ataque de drone dos Estados Unidos mata Ayman al-Zawahiri, líder da Al-Qaeda, em Cabul, Afeganistão.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Califado Abássida) • Atualizado 2026-07-30</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Veículo aéreo não tripulado) • Atualizado 2026-07-31</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
