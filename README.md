@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1989, O Paquistão é readmitido na Comunidade das Nações depois de ter restaurado a democracia pela primeira vez desde 1972.
+> Em 2005, O presidente da Maaouya Ould Sid'Ahmed Taya é derrubado em um golpe militar enquanto participava do funeral do rei Fahd na Arábia Saudita.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Paquistão) • Atualizado 2026-08-02</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Maaouya Ould Sid'Ahmed Taya) • Atualizado 2026-08-03</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
