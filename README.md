@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1995, Guerra Civil Iugoslava: a cidade de Knin, na Croácia, uma importante fortaleza sérvia, é capturada pelas forças croatas durante a Operação Tempestade. A data é comemorada na Croácia como o Dia da Vitória.
+> Em 2012, O astromóvel Curiosity da NASA pousa na superfície de Marte.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Guerra Civil Iugoslava) • Atualizado 2026-08-05</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Curiosity (astromóvel)) • Atualizado 2026-08-06</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
