@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2012, O astromóvel Curiosity da NASA pousa na superfície de Marte.
+> Em 1974, Philippe Petit realiza um ato de corda bamba entre as torres gêmeas do World Trade Center a 417 metros de altura.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Curiosity (astromóvel)) • Atualizado 2026-08-06</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Philippe Petit) • Atualizado 2026-08-07</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
