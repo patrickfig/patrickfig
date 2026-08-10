@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1862, Guerra Civil dos Estados Unidos: Batalha de Cedar Mountain: em Cedar Mountain, Virgínia, o general separatista confederado Stonewall Jackson derrota as forças lealistas do governo federal dos Estados Unidos sob o comand…
+> Em 1628, O navio de guerra sueco Vasa afunda no porto de Estocolmo após apenas 20 minutos de sua viagem inaugural.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Guerra Civil Americana) • Atualizado 2026-08-09</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Vasa (navio)) • Atualizado 2026-08-10</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
