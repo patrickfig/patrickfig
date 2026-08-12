@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 106, A parte sudoeste da Dácia (atual Romênia) se torna uma província romana: Dácia romana.
+> Em 1865, Joseph Lister, cirurgião e cientista britânico, realiza a primeira cirurgia antisséptica.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Dácia) • Atualizado 2026-08-11</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Joseph Lister) • Atualizado 2026-08-12</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
