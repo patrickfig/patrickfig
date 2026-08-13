@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1865, Joseph Lister, cirurgião e cientista britânico, realiza a primeira cirurgia antisséptica.
+> Em 1944, Segunda Guerra Mundial: as tropas alemãs iniciam a pilhagem e destruição de Anogeia, em Creta, que continuaria até 5 de setembro.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Joseph Lister) • Atualizado 2026-08-12</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Segunda Guerra Mundial) • Atualizado 2026-08-13</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
