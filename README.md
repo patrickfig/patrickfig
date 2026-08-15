@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1934, Fundada em Bruxelas, a FUDOSI, uma federação autônoma de ordens e sociedades esotéricas.
+> Em 1965, Apresentação da banda inglesa The Beatles no estádio Shea Stadium.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Bruxelas) • Atualizado 2026-08-14</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/The Beatles) • Atualizado 2026-08-15</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
