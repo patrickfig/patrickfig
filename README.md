@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1819, Massacre de Peterloo: dezessete pessoas morrem e mais de 600 ficam feridas em uma carga da cavalaria durante uma reunião pública em St. Peter's Field, Manchester, Inglaterra.
+> Em 1998, Escândalo Lewinsky: o presidente dos Estados Unidos, Bill Clinton, admite em depoimento gravado que tinha um "relacionamento físico impróprio" com a estagiária da Casa Branca, Monica Lewinsky; mais tarde, no mesmo dia, …
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Massacre de Peterloo) • Atualizado 2026-08-16</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Escândalo Lewinsky) • Atualizado 2026-08-17</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
