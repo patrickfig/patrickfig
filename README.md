@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1998, Escândalo Lewinsky: o presidente dos Estados Unidos, Bill Clinton, admite em depoimento gravado que tinha um "relacionamento físico impróprio" com a estagiária da Casa Branca, Monica Lewinsky; mais tarde, no mesmo dia, …
+> Em 1920, Ratificada a Décima Nona Emenda à Constituição dos Estados Unidos, garantindo naquele país o sufrágio feminino.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Escândalo Lewinsky) • Atualizado 2026-08-17</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Décima Nona Emenda à Constituição dos Estados Unidos) • Atualizado 2026-08-18</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
