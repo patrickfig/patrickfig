@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1920, Ratificada a Décima Nona Emenda à Constituição dos Estados Unidos, garantindo naquele país o sufrágio feminino.
+> Em 1812, Guerra de 1812: a fragata americana USS Constitution derrota a fragata britânica HMS Guerriere na costa da Nova Escócia, Canadá, ganhando o apelido de "Old Ironsides".
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Décima Nona Emenda à Constituição dos Estados Unidos) • Atualizado 2026-08-18</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Guerra Anglo-Americana de 1812) • Atualizado 2026-08-19</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
