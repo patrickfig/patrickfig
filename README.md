@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1812, Guerra de 1812: a fragata americana USS Constitution derrota a fragata britânica HMS Guerriere na costa da Nova Escócia, Canadá, ganhando o apelido de "Old Ironsides".
+> Em 1955, Batalha de Philippeville: no Marrocos, uma força de berberes da região das montanhas do Atlas, na Argélia, invade dois assentamentos rurais e matam 77 franceses.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Guerra Anglo-Americana de 1812) • Atualizado 2026-08-19</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Batalha de Philippeville) • Atualizado 2026-08-20</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
