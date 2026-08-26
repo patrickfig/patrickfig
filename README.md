@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1950, Para evitar uma ameaça de ataque durante a Guerra da Coréia, o presidente Truman ordena que o secretário do Exército, Frank Pace, assuma o controle das ferrovias do país.
+> Em 1303, Chittorgarh cai para o Sultanato de Delhi.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Guerra da Coreia) • Atualizado 2026-08-25</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Cerco de Chittorgarh (1303)) • Atualizado 2026-08-26</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
