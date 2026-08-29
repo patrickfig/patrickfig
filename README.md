@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1609, Henry Hudson descobre a Baía de Delaware.
+> Em 1831, Michael Faraday descobre a indução eletromagnética.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Henry Hudson) • Atualizado 2026-08-28</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Michael Faraday) • Atualizado 2026-08-29</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
