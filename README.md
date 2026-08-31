@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1896, Revolução Filipina: Após a vitória espanhola na Batalha de San Juan del Monte, oito províncias das Filipinas são declaradas sob lei marcial pelo governador-geral espanhol Ramón Blanco y Erenas.
+> Em 1915, O Brasil torna-se signatário do tratado de direitos autorais de Buenos Aires.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Revolução Filipina) • Atualizado 2026-08-30</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Brasil) • Atualizado 2026-08-31</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
