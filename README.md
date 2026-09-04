@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1935, Malcolm Campbell atinge uma velocidade de 304,331 milhas por hora no Bonneville Salt Flats, em Utah, tornando-se a primeira pessoa a dirigir um automóvel a mais de 300 mph.
+> Em 1888, George Eastman registra a marca Kodak e recebe a patente por sua câmera que usa rolo de filme.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Malcolm Campbell) • Atualizado 2026-09-03</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/George Eastman) • Atualizado 2026-09-04</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
