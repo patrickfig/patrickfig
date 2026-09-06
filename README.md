@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1774, Primeiro Congresso Continental se reúne na Filadélfia.
+> Em 1922, Oficialização do Hino Nacional Brasileiro, de autoria de Joaquim Osório Duque Estrada.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Congresso Continental) • Atualizado 2026-09-05</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Hino Nacional Brasileiro) • Atualizado 2026-09-06</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
