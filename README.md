@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1922, Oficialização do Hino Nacional Brasileiro, de autoria de Joaquim Osório Duque Estrada.
+> Em 1228, O Sacro Imperador Romano Frederico II desembarca em Acre, Israel, e inicia a Sexta Cruzada, que resulta em uma restauração pacífica do Reino de Jerusalém.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Hino Nacional Brasileiro) • Atualizado 2026-09-06</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Frederico II do Sacro Império Romano-Germânico) • Atualizado 2026-09-07</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
