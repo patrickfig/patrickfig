@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1089, O primeiro sínodo do papa Urbano II começa em Melfi, com a presença de setenta bispos e doze abades. O sínodo emite vários decretos sobre o direito eclesiástico e trata da relação com a parte grega da Igreja.
+> Em 1297, Batalha de Stirling Bridge: escoceses liderados por William Wallace e Andrew Moray derrotam os ingleses.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Sínodo de Melfi (1089)) • Atualizado 2026-09-10</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Batalha de Stirling Bridge) • Atualizado 2026-09-11</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
