@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1297, Batalha de Stirling Bridge: escoceses liderados por William Wallace e Andrew Moray derrotam os ingleses.
+> Em 1923, Rodésia do Sul, hoje chamado Zimbábue, é anexada pelo Reino Unido.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Batalha de Stirling Bridge) • Atualizado 2026-09-11</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Rodésia do Sul) • Atualizado 2026-09-12</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
