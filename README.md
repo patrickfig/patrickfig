@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2002, O voo 5561 da Total Linhas Aéreas cai perto de Paranapanema, Brasil, matando os dois pilotos a bordo.
+> Em 1915, Movimento da Nova Cultura: Chen Duxiu funda a revista Nova Juventude em Xangai.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Voo Total 5561) • Atualizado 2026-09-14</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Movimento Quatro de Maio) • Atualizado 2026-09-15</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
