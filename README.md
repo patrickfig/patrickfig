@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1915, Movimento da Nova Cultura: Chen Duxiu funda a revista Nova Juventude em Xangai.
+> Em 2004, A Assembleia da República de Portugal aprova, por unanimidade, translado dos restos mortais de Manuel de Arriaga para o Panteão Nacional de Santa Engrácia.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Movimento Quatro de Maio) • Atualizado 2026-09-15</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Assembleia da República (Portugal)) • Atualizado 2026-09-16</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
