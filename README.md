@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2011, Suicídio de Jamey Rodemeyer
+> Em 1835, Revolução Farroupilha: Um piquete de sete homens liderados pelo cabo revolucionário Manuel Vieira da Rocha derrota um piquete de vinte homens da Guarda Nacional, liderados pelo Visconde de Camamu, que é ferido, no Comba…
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Jamey Rodemeyer) • Atualizado 2026-09-18</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Guerra dos Farrapos) • Atualizado 2026-09-19</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
