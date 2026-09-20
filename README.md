@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1835, Revolução Farroupilha: Um piquete de sete homens liderados pelo cabo revolucionário Manuel Vieira da Rocha derrota um piquete de vinte homens da Guarda Nacional, liderados pelo Visconde de Camamu, que é ferido, no Comba…
+> Em 2017, O Furacão Maria chega a Porto Rico como um poderoso furacão de categoria 4, resultando em 2 975 mortes, 90 bilhões de dólares em danos e uma grande crise humanitária.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Guerra dos Farrapos) • Atualizado 2026-09-19</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Furacão Maria) • Atualizado 2026-09-20</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
