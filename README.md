@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2017, O Furacão Maria chega a Porto Rico como um poderoso furacão de categoria 4, resultando em 2 975 mortes, 90 bilhões de dólares em danos e uma grande crise humanitária.
+> Em 1964, Voo inaugural do North American XB-70 Valkyrie, o bombardeiro mais rápido do mundo.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Furacão Maria) • Atualizado 2026-09-20</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/North American XB-70 Valkyrie) • Atualizado 2026-09-21</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
