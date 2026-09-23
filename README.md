@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1499, O Tratado de Basileia conclui a Guerra dos Suabos.
+> Em 2024, No Líbano, ataques aéreos israelenses contra o Hezbollah matam pelo menos 558 pessoas e ferem mais de 1 835.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Tratado de Basileia (1499)) • Atualizado 2026-09-22</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Líbano) • Atualizado 2026-09-23</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
