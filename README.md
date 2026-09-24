@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2024, No Líbano, ataques aéreos israelenses contra o Hezbollah matam pelo menos 558 pessoas e ferem mais de 1 835.
+> Em 1830, Um comitê revolucionário de notáveis ​​forma o Governo Provisório da Bélgica.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Líbano) • Atualizado 2026-09-23</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Governo Provisório da Bélgica) • Atualizado 2026-09-24</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
