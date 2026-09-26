@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1969, É assinada a Carta que cria a Organização para a Cooperação Islâmica.
+> Em 1423, Guerra dos Cem Anos: um exército francês derrota os ingleses na Batalha de La Brossinière.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Organização para a Cooperação Islâmica) • Atualizado 2026-09-25</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Guerra dos Cem Anos) • Atualizado 2026-09-26</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
