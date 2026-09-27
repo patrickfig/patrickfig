@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1423, Guerra dos Cem Anos: um exército francês derrota os ingleses na Batalha de La Brossinière.
+> Em 2024, Israel bombardeia, na capital libanesa, Beirute, o quartel-general do Hezbollah, culminando na morte do chefe do grupo extremista, Hassan Nasrallah.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Guerra dos Cem Anos) • Atualizado 2026-09-26</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Israel) • Atualizado 2026-09-27</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
