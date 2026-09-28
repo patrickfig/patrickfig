@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2024, Israel bombardeia, na capital libanesa, Beirute, o quartel-general do Hezbollah, culminando na morte do chefe do grupo extremista, Hassan Nasrallah.
+> Em 1868, A Batalha de Alcolea faz com que a rainha Isabel II da Espanha fuja para a França.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Israel) • Atualizado 2026-09-27</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Batalha de Alcolea) • Atualizado 2026-09-28</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
