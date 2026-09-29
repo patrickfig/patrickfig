@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1868, A Batalha de Alcolea faz com que a rainha Isabel II da Espanha fuja para a França.
+> Em 1832, Cerco do Porto: Dá-se a grande ofensiva miguelista de modo a tomar a cidade, que é repelida.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Batalha de Alcolea) • Atualizado 2026-09-28</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Cerco do Porto) • Atualizado 2026-09-29</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
