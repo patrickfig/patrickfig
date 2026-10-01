@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 489, Os ostrogodos sob Teodorico, o Grande, derrotam as forças de Odoacro pela segunda vez.
+> Em 1979, É aberto o MTR, o sistema ferroviário de trânsito rápido em Hong Kong.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Ostrogodos) • Atualizado 2026-09-30</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Metropolitano de Hong Kong) • Atualizado 2026-10-01</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
