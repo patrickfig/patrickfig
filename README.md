@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1187, Saladino captura Jerusalém após 88 anos de domínio dos cruzados.
+> Em 1792, Uma milícia parte do reduto espanhol de Valdivia para reprimir uma revolta huilliche no sul do Chile.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Saladino) • Atualizado 2026-10-02</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Valdivia (cidade)) • Atualizado 2026-10-03</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
