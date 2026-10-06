@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1944, O Governo Provisório da República Francesa emancipa as mulheres.
+> Em 2007, Jason Lewis completa a primeira circum-navegação humana da Terra.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Governo Provisório da República Francesa) • Atualizado 2026-10-05</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Jason Lewis (aventureiro)) • Atualizado 2026-10-06</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
