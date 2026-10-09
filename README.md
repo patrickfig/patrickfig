@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1652, Vitória inglesa na Batalha de Kentish Knock na Primeira Guerra Anglo-Holandesa.
+> Em 1981, O presidente François Mitterrand abole a pena capital na França.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Batalha de Kentish Knock) • Atualizado 2026-10-08</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/François Mitterrand) • Atualizado 2026-10-09</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
