@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1938, Cumprindo o Acordo de Munique, a Tchecoslováquia conclui sua retirada da região dos Sudetos.
+> Em 1942, Segunda Guerra Mundial: na saída de Guadalcanal, os navios da Marinha dos Estados Unidos interceptam e derrotam uma força japonesa.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Acordo de Munique) • Atualizado 2026-10-10</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Batalha do Cabo Esperança) • Atualizado 2026-10-11</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
