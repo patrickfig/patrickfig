@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1958, O Governo belga institui o ensino livre e gratuito.
+> Em 1644, Uma frota sueco-holandesa derrota a frota dinamarquesa em Fehmarn e captura cerca de 1 000 prisioneiros.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Bélgica) • Atualizado 2026-10-12</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Batalha de Fehmarn (1644)) • Atualizado 2026-10-13</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
