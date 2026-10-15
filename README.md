@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1066, A conquista normanda da Inglaterra começa com a Batalha de Hastings.
+> Em 1529, O Cerco de Viena termina quando a Áustria derrota decisivamente as forças otomanas invasoras, encerrando sua expansão europeia.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Conquista normanda da Inglaterra) • Atualizado 2026-10-14</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Primeiro Cerco Otomano a Viena) • Atualizado 2026-10-15</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
