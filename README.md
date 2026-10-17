@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2012, Descoberto o exoplaneta Alfa Centauri Bb, o mais próximo exoplaneta já descoberto (4,37 anos-luz).
+> Em 1945, Uma grande manifestação em Buenos Aires, Argentina, exige a libertação de Juan Perón (comemorada posteriormente pelo peronismo como o Dia da Fidelidade).
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Alfa Centauri Bb) • Atualizado 2026-10-16</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Dia da Fidelidade) • Atualizado 2026-10-17</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
