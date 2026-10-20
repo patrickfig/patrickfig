@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1812, A invasão francesa da Rússia fracassa quando Napoleão começa sua retirada de Moscou.
+> Em 1948, Um Lockheed L-049 Constellation da KLM cai ao se aproximar do aeroporto de Glasgow Prestwick, matando 40 pessoas.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Invasão francesa da Rússia) • Atualizado 2026-10-19</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Lockheed L-049 Constellation) • Atualizado 2026-10-20</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
