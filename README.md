@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1948, Um Lockheed L-049 Constellation da KLM cai ao se aproximar do aeroporto de Glasgow Prestwick, matando 40 pessoas.
+> Em 1392, O imperador japonês Go-Kameyama abdica em favor do requerente rival Go-Komatsu.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Lockheed L-049 Constellation) • Atualizado 2026-10-20</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Go-Kameyama) • Atualizado 2026-10-21</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
