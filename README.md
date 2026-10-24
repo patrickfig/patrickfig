@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1944, Segunda Guerra Mundial: começa a Batalha do Golfo de Leyte, nas Filipinas, entre o Império do Japão e os Estados Unidos e Austrália.
+> Em 1990, O primeiro-ministro da Itália, Giulio Andreotti, revela ao parlamento italiano a existência da Gladio, a força italiana da OTAN formada em 1956, que deveria ser ativada no caso de uma invasão do Pacto de Varsóvia, que p…
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Batalha do Golfo de Leyte) • Atualizado 2026-10-23</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Giulio Andreotti) • Atualizado 2026-10-24</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
