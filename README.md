@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1968, O cosmonauta soviético Georgy Beregovoy pilota a Soyuz 3 no espaço para uma missão de quatro dias.
+> Em 1806, O Exército Francês entra em Berlim, após a Batalha de Jena–Auerstedt.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Georgi Beregovoi) • Atualizado 2026-10-26</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Exército de Terra Francês) • Atualizado 2026-10-27</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
