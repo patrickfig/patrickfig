@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1922, Os fascistas italianos liderados por Benito Mussolini marcham em Roma e assumem o governo italiano.
+> Em 1998, O ônibus espacial Discovery decola na missão STS-95 com John Glenn, 77 anos, a bordo, tornando-o a pessoa mais velha a ir para o espaço.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Benito Mussolini) • Atualizado 2026-10-28</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Discovery (ônibus espacial)) • Atualizado 2026-10-29</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
