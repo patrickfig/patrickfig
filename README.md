@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 2018, NASA anunciou que o telescópio espacial Kepler, tendo ficado sem combustível, depois de nove anos de serviço e a descoberta de mais de 2 600 exoplanetas, foi aposentado oficialmente e vai manter sua órbita atual e segur…
+> Em 1918, Primeira Guerra Mundial: a Revolução dos Crisântemos encerra o Compromisso austro-húngaro de 1867, e a Hungria alcança total soberania.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/NASA) • Atualizado 2026-10-30</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Primeira Guerra Mundial) • Atualizado 2026-10-31</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
