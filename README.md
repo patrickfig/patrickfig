@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1944, Segunda Guerra Mundial: Rendição das tropas de ocupação alemãs e italianas na Grécia.
+> Em 1605, Conspiração da Pólvora na Inglaterra: Guy Fawkes é preso, devido a sua tentativa falha de explodir o Parlamento inglês.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Segunda Guerra Mundial) • Atualizado 2026-11-04</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Conspiração da Pólvora) • Atualizado 2026-11-05</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
