@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1605, Conspiração da Pólvora na Inglaterra: Guy Fawkes é preso, devido a sua tentativa falha de explodir o Parlamento inglês.
+> Em 1963, Guerra do Vietnã: Após o golpe de 1 de novembro e a execução do presidente Ngo Dinh Diem, o líder do golpe, general Duong Van Minh, assume a liderança do Vietnã do Sul.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Conspiração da Pólvora) • Atualizado 2026-11-05</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Guerra do Vietnã) • Atualizado 2026-11-06</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
