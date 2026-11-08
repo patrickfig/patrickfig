@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1929, Na cidade de Nova Iorque, nos Estados Unidos, o Museu de Arte Moderna é aberto ao público.
+> Em 2020, Mianmar realiza as eleições gerais de 2020, reelegendo um governo liderado pela Liga Nacional para a Democracia, que é deposto pelos militares birmaneses em fevereiro seguinte, durante o golpe de estado de 2021 em Mianm…
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Museu de Arte Moderna (Nova Iorque)) • Atualizado 2026-11-07</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Myanmar) • Atualizado 2026-11-08</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
