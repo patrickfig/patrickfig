@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1965, Um apagão com 12 horas de duração atinge o nordeste dos Estados Unidos e parte do Canadá, afetando cerca de 30 milhões de pessoas.
+> Em 1989, O líder da Bulgária comunista Todor Zhivkov é destituído do cargo e substituído por Petar Mladenov.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Apagão nos Estados Unidos e Canadá em 1965) • Atualizado 2026-11-09</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/República Popular da Bulgária) • Atualizado 2026-11-10</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
