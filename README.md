@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1989, O líder da Bulgária comunista Todor Zhivkov é destituído do cargo e substituído por Petar Mladenov.
+> Em 1940, Segunda Guerra Mundial: na Batalha de Tarento, a Marinha Real Britânica lança a primeira batalha naval totalmente combatida por aviões da história.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/República Popular da Bulgária) • Atualizado 2026-11-10</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Segunda Guerra Mundial) • Atualizado 2026-11-11</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
