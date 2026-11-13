@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1975, As ilhas do Estado das Comores (atual União das Comores) são admitidas como Estado-Membro da ONU.
+> Em 1841, James Braid vê pela primeira vez uma demonstração do magnetismo animal, o que leva ao seu estudo do assunto que ele chama de hipnotismo.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Comores) • Atualizado 2026-11-12</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/James Braid) • Atualizado 2026-11-13</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
