@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1970, A União Soviética entra na OACI, tornando o russo a quarta língua oficial da organização.
+> Em 1890, O Congresso Nacional Constituinte da nova República Brasileira é instalado.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/União Soviética) • Atualizado 2026-11-14</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Constituição brasileira de 1891) • Atualizado 2026-11-15</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
