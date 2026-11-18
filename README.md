@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1993, Na Nigéria, o general Sani Abacha derruba o governo de Ernest Shonekan em um golpe militar.
+> Em 1961, O presidente dos Estados Unidos, John F. Kennedy, envia 18 000 conselheiros militares para o Vietnã do Sul.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Sani Abacha) • Atualizado 2026-11-17</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/John F. Kennedy) • Atualizado 2026-11-18</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
