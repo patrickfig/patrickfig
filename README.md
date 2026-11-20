@@ -23,9 +23,9 @@ Crio conteúdo no youtube aqui
 🌱 Gosto de aprender coisas novas e curiosidades como por exemplo: 
 
 <!--CURIOSIDADE:START-->
-> Em 1946, Reino do Afeganistão, Islândia e o Reino da Suécia são admitidos como Estados-Membros da ONU.
+> Em 1820, O navio baleeiro Essex afunda depois do ataque de uma cachalote de 80 toneladas, a 3 200 Km da costa ocidental da América do Sul.
 
-<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Reino do Afeganistão) • Atualizado 2026-11-19</sub>
+<sub>Fonte: [Wikipedia (pt)](https://pt.wikipedia.org/wiki/Essex (baleeiro)) • Atualizado 2026-11-20</sub>
 <!--CURIOSIDADE:END-->
 
 <sub>Quer colocar isso no seu perfil também? Veja como funciona e copie o template: [Curiosidade do Dia no README](https://github.com/SEU-USUARIO/curiosidade-readme-template)</sub>
